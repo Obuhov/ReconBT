@@ -1,0 +1,6 @@
+nltk==3.8.1
+python-dotenv==0.21.1       # загрузка переменных окружения
+schedule==1.1.0
+scikit-learn==1.2.1
+vk-api==11.9.9
+
